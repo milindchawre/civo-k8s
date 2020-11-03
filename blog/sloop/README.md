@@ -1,3 +1,7 @@
+#### Introducing Sloop
+
+![sloop-intro](https://github.com/milindchawre/civo-k8s/raw/master/blog/sloop/images/sloop-intro.png)
+
 [Sloop](https://github.com/salesforce/sloop) is an open source tool to visualize history of all resources in your kubernetes cluster. It was built by [salesforce](https://www.salesforce.com).
 
 #### Problem
